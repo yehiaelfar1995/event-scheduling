@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "your_db_username",
+    "password": "3570",
+    "database": "advanced_event_scheduling_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
